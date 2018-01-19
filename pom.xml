@@ -22,7 +22,7 @@
 
   <groupId>com.mercuriouslabs.fabric8</groupId>
   <artifactId>fabric8-demo-http2</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
 
   <name>Spring Boot - HTTP Booster</name>
   <description>Spring Boot - HTTP Booster</description>
